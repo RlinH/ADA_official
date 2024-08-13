@@ -1,0 +1,24 @@
+-----Dataset: CVC-ClinicDB--------Average Validation Loss: 0.0195
+Dice: 0.9467
+IoU: 0.8992
+Average Validation Loss: 0.0914
+Dice: 0.7109
+IoU: 0.5633
+Average Validation Loss: 0.0642
+Dice: 0.7794
+IoU: 0.6600
+Average Validation Loss: 0.1487
+Dice: 0.8477
+IoU: 0.7406
+-----Dataset: CVC-ClinicDB--------Average Validation Loss: 0.0332
+Dice: 0.9305
+IoU: 0.8747
+Average Validation Loss: 0.0856
+Dice: 0.7302
+IoU: 0.5805
+Average Validation Loss: 0.0638
+Dice: 0.7309
+IoU: 0.5892
+Average Validation Loss: 0.1777
+Dice: 0.8576
+IoU: 0.7549
