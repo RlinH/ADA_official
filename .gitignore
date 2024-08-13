@@ -1,0 +1,14 @@
+*.tar
+*.jpg
+*.png
+*.h5
+*.pth
+*.zip
+*.npy
+*.CHINAMI-1N9P6RH
+/logs_train
+/Fundus
+/dataset
+logs_train/
+Fundus/
+dataset/
