@@ -9,6 +9,8 @@
 /logs_train
 /Fundus
 /dataset
+/.ipynb_checkpoints
 logs_train/
 Fundus/
 dataset/
+.ipynb_checkpoints/
